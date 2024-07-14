@@ -1,0 +1,13 @@
+package com.dynamicentity;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DynamicEntityCreatorApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DynamicEntityCreatorApplication.class, args);
+	}
+
+}
